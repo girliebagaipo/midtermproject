@@ -42,7 +42,7 @@ padding:0 0 0 0;
 width:630px;
 margin: auto;
 padding: 0 0 100px 0;
-background-image:url(./images/rounded.jpg);
+background-image:url(./rounded.jpg);
 background-repeat: no-repeat;
 background-position:bottom;
 border:0px dotted #999999;
@@ -50,7 +50,7 @@ position:relative;
 }
 
 header {
-background: transparent url(./images/header.jpg) no-repeat center top;
+background: transparent url(./header.jpg) no-repeat center top;
 border:0px dotted #999999;
 width:630px;
 height:387px;
@@ -73,7 +73,7 @@ font-family:Geneva, Arial, Helvetica, sans-serif;
 font-size:10px;
 font-weight:normal;
 color:#999999;
-background: transparent url(./images/bullet.jpg) no-repeat 0% 28%;
+background: transparent url(./buttons.jpg) no-repeat 0% 28%;
 }
 
 .supporting {
@@ -95,7 +95,7 @@ margin-bottom:35px;
 }
 
 .preamble h3 {
-background-image: url(./images/title01.jpg);
+background-image: url(./title01.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 padding-top: 0%;
@@ -105,7 +105,7 @@ margin-bottom:-5px;
 }
 
 .explanation h3 {
-background-image: url(./images/title02.jpg);
+background-image: url(./title02.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -114,7 +114,7 @@ margin-bottom:-5px;
 }
 
 .participation h3 {
-background-image: url(./images/title03.jpg);
+background-image: url(./title03.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -123,7 +123,7 @@ margin-bottom:-5px;
 }
 
 .benefits h3 {
-background-image: url(./images/title04.jpg);
+background-image: url(./title04.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -132,7 +132,7 @@ margin-bottom:-5px;
 }
 
 .requirements h3 {
-background-image: url(./images/title05.jpg);
+background-image: url(./title05.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -172,7 +172,7 @@ padding:0 0 0 0;
 margin-left: 270px;
 width: 180px;
 border:0px dotted #666666;
-background: transparent url(./images/orchid.jpg) no-repeat bottom;
+background: transparent url(./orchid.jpg) no-repeat bottom;
 height:810px;
 }
 
@@ -209,7 +209,7 @@ height:810px;
 
 .design-selection ul li {
 	padding: 3px 0 3px 20px;
-	background: transparent url(./images/bullet.jpg) no-repeat 2% 25%;
+	background: transparent url(./bullet.jpg) no-repeat 2% 25%;
 	color:#999999;
 }
 
