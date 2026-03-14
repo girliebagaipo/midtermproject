@@ -165,8 +165,8 @@ overflow: hidden;
 }
 
 p {
-color: #999999;
-font-size:11px;
+color: #200505;
+font-size:12px;
 font-weight:normal;
 line-height:1.4em;
 font-family: Geneva, Arial, Helvetica, sans-serif;
@@ -177,7 +177,7 @@ position: absolute;
 left:160px; 
 right:auto; 
 top: 400px;
-padding: 0 0 0 0;
+padding: 0 0 50px 0;
 margin-left: 270px;
 width: 180px;
 border:0px dotted #666666;
@@ -190,7 +190,7 @@ height:810px;
 	list-style: none;
 	margin: 0 0 0 0;
 	padding:0 0 15px 35px;
-	font-size:10px;
+	font-size:11px;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
 	border:0px dotted #666666;
 	width:120px;
@@ -224,7 +224,7 @@ height:810px;
 
 .design-selection a {
 	display: block;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	color: #6D2542;
 }
 
@@ -232,8 +232,8 @@ height:810px;
 	display:inline;
 	line-height:5px;
 	margin:0;
-	padding:0;
-	font: normal 1.0em/0.9em Geneva, Arial, Tahoma, sans-serif;
+	padding:5px;
+	font: normal 1.1em/0.9em Geneva, Arial, Tahoma, sans-serif;
 	color: #999999;
 	letter-spacing: -1px;
 }
@@ -253,7 +253,8 @@ color:#6D2542;
 	margin-bottom:5px;
 	margin-left: 0px;
 	padding:10px 0 0 35px;
-	font-family:Geneva, Arial, Helvetica, sans-serif;
+/* font-family:Geneva, Arial, Helvetica, sans-serif; */
+	font: normal 1.2em/0.9em Geneva, Arial, Tahoma, sans-serif;
 	font-size:11px;
 	font-weight:normal;
 	text-transform: uppercase;
