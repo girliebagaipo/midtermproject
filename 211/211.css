@@ -59,7 +59,7 @@ background-color: transparent;
 
 header {
 margin-top: 125px;
-background: transparent url(./header.jpg) no-repeat center top;
+background: transparent url(./header.webp) no-repeat center top;
 border:0px dotted #999999;
 width:630px;
 height:387px;
@@ -82,7 +82,7 @@ font-family:Geneva, Arial, Helvetica, sans-serif;
 font-size:10px;
 font-weight:normal;
 color:#999999;
-background: transparent url(./buttons.jpg) no-repeat 0% 28%;
+background: transparent url(./buttons.webp) no-repeat 0% 28%;
 }
 
 .supporting {
@@ -104,7 +104,7 @@ margin-bottom:35px;
 }
 
 .preamble h3 {
-background-image: url(./title01.png);
+background-image: url(./title01.webp);
 background-repeat: no-repeat;
 background-position: left top;
 padding-top: 0%;
@@ -114,7 +114,7 @@ margin-bottom:-5px;
 }
 
 .explanation h3 {
-background-image: url(./title02.png);
+background-image: url(./title02.webp);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -123,7 +123,7 @@ margin-bottom:-5px;
 }
 
 .participation h3 {
-background-image: url(./title03.png);
+background-image: url(./title03.webp);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -132,7 +132,7 @@ margin-bottom:-5px;
 }
 
 .benefits h3 {
-background-image: url(./title04.png);
+background-image: url(./title04.webp);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -141,7 +141,7 @@ margin-bottom:-5px;
 }
 
 .requirements h3 {
-background-image: url(./title05.png);
+background-image: url(./title05.webp);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -181,7 +181,7 @@ padding: 0 0 50px 0;
 margin-left: 270px;
 width: 180px;
 border:0px dotted #666666;
-background: transparent url(./orchid.jpg) no-repeat bottom;
+background: transparent url(./orchid.webp) no-repeat bottom;
 height:810px;
 }
 
@@ -189,7 +189,7 @@ height:810px;
 	text-align: left;
 	list-style: none;
 	margin: 0 0 0 0;
-	padding:0 0 15px 35px;
+	padding:100 0 15px 35px;
 	font-size:11px;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
 	border:0px dotted #666666;
@@ -218,7 +218,7 @@ height:810px;
 
 .design-selection ul li {
 	padding: 3px 0 3px 20px;
-	background: transparent url(./bullet.jpg) no-repeat 2% 25%;
+	background: transparent url(./bullet.webp) no-repeat 2% 25%;
 	color:#999999;
 }
 
@@ -233,7 +233,7 @@ height:810px;
 	line-height:5px;
 	margin:0;
 	padding:5px;
-	font: normal 1.1em/0.9em Geneva, Arial, Tahoma, sans-serif;
+	font: normal 1.2em/1em Geneva, Arial, Tahoma, sans-serif;
 	color: #999999;
 	letter-spacing: -1px;
 }
