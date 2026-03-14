@@ -33,8 +33,14 @@ a:active {
 	} 
 
 body {
-margin:0 0 0 0;
-padding:0 0 0 0;
+
+margin:0%;
+margin-bottom: 50px;
+padding:0;
+background-image: url("./bg2.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
 
 
@@ -42,14 +48,17 @@ padding:0 0 0 0;
 width:630px;
 margin: auto;
 padding: 0 0 100px 0;
-background-image:url(./rounded.jpg);
+/*background-image:url(./rounded.jpg);*/
 background-repeat: no-repeat;
 background-position:bottom;
 border:0px dotted #999999;
 position:relative;
+background-color: transparent;
+
 }
 
 header {
+margin-top: 105px;
 background: transparent url(./header.jpg) no-repeat center top;
 border:0px dotted #999999;
 width:630px;
