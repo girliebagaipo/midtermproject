@@ -104,7 +104,7 @@ margin-bottom:35px;
 }
 
 .preamble h3 {
-background-image: url(./title01.jpg);
+background-image: url(./title01.png);
 background-repeat: no-repeat;
 background-position: left top;
 padding-top: 0%;
@@ -114,7 +114,7 @@ margin-bottom:-5px;
 }
 
 .explanation h3 {
-background-image: url(./title02.jpg);
+background-image: url(./title02.png);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -123,7 +123,7 @@ margin-bottom:-5px;
 }
 
 .participation h3 {
-background-image: url(./title03.jpg);
+background-image: url(./title03.png);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -132,7 +132,7 @@ margin-bottom:-5px;
 }
 
 .benefits h3 {
-background-image: url(./title04.jpg);
+background-image: url(./title04.png);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
@@ -141,7 +141,7 @@ margin-bottom:-5px;
 }
 
 .requirements h3 {
-background-image: url(./title05.jpg);
+background-image: url(./title05.png);
 background-repeat: no-repeat;
 background-position: left top;
 width:286px;
