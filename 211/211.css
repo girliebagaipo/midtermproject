@@ -58,7 +58,7 @@ background-color: transparent;
 }
 
 header {
-margin-top: 105px;
+margin-top: 125px;
 background: transparent url(./header.jpg) no-repeat center top;
 border:0px dotted #999999;
 width:630px;
@@ -177,7 +177,7 @@ position: absolute;
 left:160px; 
 right:auto; 
 top: 400px;
-padding:0 0 0 0;
+padding: 0 0 0 0;
 margin-left: 270px;
 width: 180px;
 border:0px dotted #666666;
