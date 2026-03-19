@@ -37,10 +37,10 @@ html {
 body {
 
 margin:0%;
-margin-bottom: 50px;
+margin-bottom: 140px;
 margin-top: 140px;
 padding:0;
-background-image: url("./bg4.png");
+background-image: url("./bg4.webp");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -186,7 +186,7 @@ position: absolute;
 left:160px; 
 right:auto; 
 top: 400px;
-padding: 0px 0 930px 0px;
+padding: 0px 0 350px 0px;
 margin-left: 270px;
 margin-right: -20px;
 width: 180px;
@@ -198,7 +198,7 @@ height:810px;
 .sidebar ul {
 	text-align: left;
 	list-style: none;
-	margin: 0 0 0 0;
+	margin: 0 0 -20px 0;
 	padding:0 0 15px 35px;
 	font-size:11px;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
@@ -207,7 +207,7 @@ height:810px;
 	}
 
 .sidebar ul li{
-	margin: 0;
+	margin: 0 0 0 0;
 	padding: 3px 0 0px 0;
 	border-bottom: 1px dotted #999999;
 }
@@ -245,7 +245,7 @@ height:810px;
 	display: block;
 	padding: 0;
 	margin: 0 0 -20px 0;  /* Adds a small bottom margin */
-	font-size: 1.5em;
+	font-size: 1.3em;
 	color: #6D2542;
 	line-height: 1.1;
 }
@@ -254,13 +254,13 @@ height:810px;
 	line-height: 1;
 	margin: 0 0 -25px 0;
 	padding: 0;
-	font: normal 1.1em/1.2em Geneva, Arial, Tahoma, sans-serif;
+	font: normal 1.2em/1.4em Geneva, Arial, Tahoma, sans-serif;
 	color: #999999;
 	letter-spacing: -1px;
 }
 
 .design-selection, .design-archives {
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 	border:0px solid #000000;
 }
 
@@ -295,12 +295,7 @@ footer a, footer a:visited {
 	color: #666666;
 	font-family:Geneva, Arial, Helvetica, sans-serif;
 	font-size:10px;
-	display: inline-block;
-    min-width: 44px;
-    min-height: 44px;
-    margin: 8px;           /* Ensures targets don't touch each other */
-    line-height: 34px;     /* Vertically centers text in the 44px box */
-    text-align: center;
+	
 }
 
 footer a:hover {
