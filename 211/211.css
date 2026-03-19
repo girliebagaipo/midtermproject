@@ -38,8 +38,9 @@ body {
 
 margin:0%;
 margin-bottom: 50px;
+margin-top: 140px;
 padding:0;
-background-image: url("./bg2.webp");
+background-image: url("./bg4.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -47,9 +48,9 @@ background-position: center;
 
 
 .page-wrapper {
-width:630px;
+width:650px;
 margin: auto;
-padding: 0 0 100px 0;
+padding: 0 0 px 0;
 /*background-image:url(./rounded.jpg);*/
 background-repeat: no-repeat;
 background-position:bottom;
@@ -207,7 +208,7 @@ height:810px;
 
 .sidebar ul li{
 	margin: 0;
-	padding: 3px 0 3px 0;
+	padding: 3px 0 0px 0;
 	border-bottom: 1px dotted #999999;
 }
 
@@ -216,8 +217,8 @@ height:810px;
 	outline:0;
 	display: block;
 	min-height: 44px;
-	padding: 12px 10px 0 10px;
-	line-height: 1.2;
+	padding: 0px 5px 0 0px;
+	line-height: 1;
 	box-sizing: border-box;
 }
 
@@ -231,24 +232,29 @@ height:810px;
 }
 
 .design-selection ul li {
-	padding: 3px 0 3px 20px;
+	padding: 2px 0px 0px 20px;
 	background: transparent url(./bullet.webp) no-repeat 2% 25%;
 	color:#999999;
+	margin: 0;
+	min-height: auto;
+	display: block;
+	border-bottom: 1px dotted #999999;
 }
 
 .design-selection a {
 	display: block;
-	padding-bottom: 5px;
-	font-size: 1.3em;
+	padding: 0;
+	margin: 0 0 -20px 0;  /* Adds a small bottom margin */
+	font-size: 1.5em;
 	color: #6D2542;
+	line-height: 1.1;
 }
-
 .design-selection a.designer-name {
-	display:inline-block;
-	line-height: 1.2;
-	margin:4px 0;
-	padding: 10px 15px;
-	font: normal 1.3em/.9em Geneva, Arial, Tahoma, sans-serif;
+	display: block;
+	line-height: 1;
+	margin: 0 0 -25px 0;
+	padding: 0;
+	font: normal 1.1em/1.2em Geneva, Arial, Tahoma, sans-serif;
 	color: #999999;
 	letter-spacing: -1px;
 }
@@ -264,8 +270,8 @@ color:#6D2542;
 
 .design-selection h3, .design-archives h3, .zen-resources h3 {
 	width: 196px;
-	height: 40px;
-	margin-bottom:5px;
+	height: 30px;
+	margin-bottom: 0px;
 	margin-left: 0px;
 	padding:10px 0 0 35px;
 /* font-family:Geneva, Arial, Helvetica, sans-serif; */
